@@ -1,0 +1,91 @@
+[
+  {
+    "name": "instagram",
+    "filters": [
+      {
+        "type": "username",
+        "url": "https://www.instagram.com/<?username?>"
+      }
+    ]
+  },
+  {
+    "name": "x",
+    "filters": [
+      {
+        "type": "username",
+        "url": "https://nitter.poast.org/<?username?>"
+      }
+    ]
+  },
+  {
+    "name": "medium",
+    "filters": [
+      {
+        "type": "username",
+        "url": "https://<?username?>.medium.com/feed"
+      }
+    ]
+  },
+  {
+    "name": "techCrunch",
+    "filters": [
+      {
+        "type": "topic",
+        "topics": [
+          {
+            "name": "Startups",
+            "url": "https://techcrunch.com/category/startups/feed/"
+          },
+          {
+            "name": "Security",
+            "url": "https://techcrunch.com/category/startups/feed/"
+          },
+          {
+            "name": "Venture",
+            "url": "https://techcrunch.com/category/venture/feed/"
+          },
+          {
+            "name": "Artificial Intelligence",
+            "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+          },
+          {
+            "name": "Crypto Currency",
+            "url": "https://techcrunch.com/category/cryptocurrency/feed/"
+          },
+          {
+            "name": "Apps",
+            "url": "https://techcrunch.com/category/apps/feed/"
+          },
+          {
+            "name": "Events",
+            "url": "https://techcrunch.com/category/events/feed/"
+          },
+          {
+            "name": "Startup Battlefield",
+            "url": "https://techcrunch.com/category/startup-battlefield/feed/"
+          },
+          {
+            "name": "General",
+            "url": "https://techcrunch.com/feed/"
+          },
+          {
+            "name": "Fintech",
+            "url": "https://techcrunch.com/category/fintech/feed/"
+          },
+          {
+            "name": "Hardware",
+            "url": "https://techcrunch.com/category/hardware/feed/"
+          },
+          {
+            "name": "Transportation",
+            "url": "https://techcrunch.com/category/transportation/feed/"
+          },
+          {
+            "name": "Media Entertainment",
+            "url": "https://techcrunch.com/category/media-entertainment/feed/"
+          }
+        ]
+      }
+    ]
+  }
+]
