@@ -5,6 +5,7 @@ const compression = require('compression');
 const { errorHandler } = require('./middlewares/error');
 const logger = require('./middlewares/logger');
 const cors = require('cors');
+const v1 = require('./routes/v1/routes');
 
 const app = express();
 
@@ -26,5 +27,8 @@ app.use(compression());
 
 // error handler
 app.use(errorHandler);
+
+app.use('/api/v1', v1);
+
 
 module.exports = app;

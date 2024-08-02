@@ -11,7 +11,6 @@ async function run() {
 
   logger.init(config);
   await db.init(config);
-  cronJob.start()
   const server = app.listen(config.port, () => {
     logger.info('app started', { port: config.port });
   });
