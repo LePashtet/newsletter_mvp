@@ -76,7 +76,7 @@ android {
 
     namespace "com.elbesoft_mobile"
     defaultConfig {
-        applicationId "com.elbesoft_mobile"
+        applicationId "com.Newsletter"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
