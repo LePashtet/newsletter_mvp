@@ -1,3 +1,4 @@
+require("dotenv").config()
 const path = require('path');
 
 const db = require('./config/mongo');
@@ -6,7 +7,7 @@ const { createConfig } = require('./config/config');
 const logger = require('./config/logger');
 
 async function run() {
-  const configPath = path.join(__dirname, '../configs/.env');
+  const configPath = path.join(__dirname, '../.env');
   const config = createConfig(configPath);
 
   logger.init(config);
