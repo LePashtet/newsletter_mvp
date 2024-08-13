@@ -31,10 +31,13 @@ passport.use(new GoogleStrategy({
 
             if (!currentUser) {
                 try {
+                    const referrer = await User.findById(req.query.referrer)
+
                     const newUser = await User.create({
                         name: profile._json.name,
                         googleId: profile.id,
-                        email: profile._json.email
+                        email: profile._json.email,
+                        referralId: referrer ? referrer?._id : null
                     })
                     done(null, newUser);
                 } catch (error) {

@@ -19,6 +19,8 @@ router.get('/:objectId', validate({params: Joi.object().keys({
         objectId: objectId.required()
     })}), controller.getUserById);
 
+router.get('/referral/generate', controller.getUserReferralCodeById);
+
 
 router.delete('/:objectId',validate({params: Joi.object().keys({
         objectId: objectId.required()
