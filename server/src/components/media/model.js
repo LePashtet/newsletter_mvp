@@ -21,4 +21,4 @@ const MediaSchema = new Schema(
     {optimisticConcurrency: true},
 );
 
-module.exports = mongoose.model('Medias', MediaSchema);
+module.exports = mongoose.model('Media', MediaSchema);
