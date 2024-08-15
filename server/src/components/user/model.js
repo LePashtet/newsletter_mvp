@@ -10,7 +10,12 @@ const UserSchema = new Schema(
         },
         googleId: [{
             type: String,
+            required: true
         }],
+        referralId: {
+            type: Schema.ObjectId,
+            ref: "User"
+        },
         createdAt: {
             type: Date,
             default: Date.now,
@@ -20,4 +25,4 @@ const UserSchema = new Schema(
     {optimisticConcurrency: true},
 );
 
-module.exports = mongoose.model('user', UserSchema);
+module.exports = mongoose.model('User', UserSchema);
