@@ -85,6 +85,598 @@
             "url": "https://techcrunch.com/category/media-entertainment/feed/"
           }
         ]
+      },
+      {
+        "type": "keywords",
+        "url": "https://techcrunch.com/rss?s=<?keywords?>"
+      },
+      {
+        "type": "job",
+        "url": "https://www.crunchboard.com/jobs.rss"
+      }
+    ]
+  },
+  {
+    "name": "theGuardian",
+    "filters": [
+      {
+        "type": "topic",
+        "topics": [
+          {
+            "name": "europe",
+            "url": "https://www.theguardian.com/europe/rss"
+          },
+          {
+            "name": "word",
+            "url": "https://www.theguardian.com/world/rss"
+          },
+          {
+            "name": "uk",
+            "url": "https://www.theguardian.com/uk-news/rss"
+          },
+          {
+            "name": "climateCrisis",
+            "url": "https://www.theguardian.com/environment/climate-crisis/rss"
+          },
+          {
+            "name": "ukraine",
+            "url": "https://www.theguardian.com/world/ukraine/rss"
+          },
+          {
+            "name": "environment",
+            "url": "https://www.theguardian.com/uk/environment/rss"
+          },
+          {
+            "name": "science",
+            "url": "https://www.theguardian.com/science/rss"
+          },
+          {
+            "name": "globalDevelopment",
+            "url": "https://www.theguardian.com/global-development/rss"
+          },
+          {
+            "name": "technology",
+            "url": "https://www.theguardian.com/uk/technology/rss"
+          },
+          {
+            "name": "business",
+            "url": "https://www.theguardian.com/uk/business/rss"
+          },
+          {
+            "name": "obituaries",
+            "url": "https://www.theguardian.com/obituaries/rss"
+          },
+          {
+            "name": "comments",
+            "url": "https://www.theguardian.com/uk/commentisfree/rss"
+          },
+          {
+            "name": "theGuardianView",
+            "url": "https://www.theguardian.com/profile/editorial/rss"
+          },
+          {
+            "name": "columnists",
+            "url": "https://www.theguardian.com/index/contributors/rss"
+          },
+          {
+            "name": "cartoons",
+            "url": "https://www.theguardian.com/tone/cartoons/rss"
+          },
+          {
+            "name": "opinionCideos",
+            "url": "https://www.theguardian.com/type/video+tone/comment/rss"
+          },
+          {
+            "name": "letters",
+            "url": "https://www.theguardian.com/tone/letters/rss"
+          },
+          {
+            "name": "mixSports",
+            "url": "https://www.theguardian.com/uk/sport/rss"
+          },
+          {
+            "name": "football",
+            "url": "https://www.theguardian.com/football/rss"
+          },
+          {
+            "name": "cricket",
+            "url": "https://www.theguardian.com/sport/cricket/rss"
+          },
+          {
+            "name": "rugbyUnion",
+            "url": "https://www.theguardian.com/sport/rugby-union/rss"
+          },
+          {
+            "name": "tennis",
+            "url": "https://www.theguardian.com/sport/tennis/rss"
+          },
+          {
+            "name": "cycling",
+            "url": "https://www.theguardian.com/sport/cycling/rss"
+          },
+          {
+            "name": "formulaOne",
+            "url": "https://www.theguardian.com/sport/formulaone/rss"
+          },
+          {
+            "name": "golf",
+            "url": "https://www.theguardian.com/sport/golf/rss"
+          },
+          {
+            "name": "usSports",
+            "url": "https://www.theguardian.com/sport/us-sport/rss"
+          },
+          {
+            "name": "mixCultures",
+            "url": "https://www.theguardian.com/uk/culture/rss"
+          },
+          {
+            "name": "books",
+            "url": "https://www.theguardian.com/books/rss"
+          },
+          {
+            "name": "music",
+            "url": "https://www.theguardian.com/music/rss"
+          },
+          {
+            "name": "tvRadio",
+            "url": "https://www.theguardian.com/uk/tv-and-radio/rss"
+          },
+          {
+            "name": "artDesign",
+            "url": "https://www.theguardian.com/artanddesign/rss"
+          },
+          {
+            "name": "film",
+            "url": "https://www.theguardian.com/uk/film"
+          },
+          {
+            "name": "games",
+            "url": "https://www.theguardian.com/games/rss"
+          },
+          {
+            "name": "classicalMusicOpera",
+            "url": "https://www.theguardian.com/music/classical-music-and-opera/rss"
+          },
+          {
+            "name": "stage",
+            "url": "https://www.theguardian.com/stage/rss"
+          },
+          {
+            "name": "mixLifestyle",
+            "url": "https://www.theguardian.com/uk/lifeandstyle/rss"
+          },
+          {
+            "name": "fashion",
+            "url": "https://www.theguardian.com/fashion/rss"
+          },
+          {
+            "name": "food",
+            "url": "https://www.theguardian.com/food/rss"
+          },
+          {
+            "name": "recipes",
+            "url": "https://www.theguardian.com/tone/recipes/rss"
+          },
+          {
+            "name": "loveSex",
+            "url": "https://www.theguardian.com/lifeandstyle/love-and-sex/rss"
+          },
+          {
+            "name": "healthFitness",
+            "url": "https://www.theguardian.com/lifeandstyle/health-and-wellbeing/rss"
+          },
+          {
+            "name": "homesGarden",
+            "url": "https://www.theguardian.com/lifeandstyle/home-and-garden/rss"
+          },
+          {
+            "name": "women",
+            "url": "https://www.theguardian.com/lifeandstyle/women/rss"
+          },
+          {
+            "name": "men",
+            "url": "https://www.theguardian.com/lifeandstyle/men/rss"
+          },
+          {
+            "name": "family",
+            "url": "https://www.theguardian.com/lifeandstyle/family/rss"
+          },
+          {
+            "name": "travel",
+            "url": "https://www.theguardian.com/uk/travel/rss"
+          },
+          {
+            "name": "money",
+            "url": "https://www.theguardian.com/uk/money/rss"
+          }
+        ]
+      },
+      {
+        "type": "job",
+        "url": "https://jobs.theguardian.com/jobsrss/"
+      },
+      {
+        "type": "geo",
+        "url": "https://www.theguardian.com/category/location/<?geo?>/feed/"
+      }
+    ]
+  },
+  {
+    "name": "europeanParliament",
+    "filters": [
+      {
+        "type": "topic",
+        "topics": [
+          {
+            "name": "agenda",
+            "url": "https://www.europarl.europa.eu/rss/doc/agendas-news/en.xml"
+          },
+          {
+            "name": "newsletter",
+            "url": "https://www.europarl.europa.eu/rss/doc/newsletters/en.xml"
+          },
+          {
+            "name": "pressReleases",
+            "url": "https://www.europarl.europa.eu/rss/doc/press-releases/en.xml"
+          },
+          {
+            "name": "plenaryPressReleases",
+            "url": "https://www.europarl.europa.eu/rss/doc/press-releases-plenary/en.xml"
+          },
+          {
+            "name": "committeesPressReleases",
+            "url": "https://www.europarl.europa.eu/rss/doc/press-releases-committees/en.xml"
+          },
+          {
+            "name": "recordingsOfPressConferencesAndOtherEvents",
+            "url": "https://www.europarl.europa.eu/rss/video/other-events/en.xml"
+          },
+          {
+            "name": "parliamentInFocus",
+            "url": "https://www.europarl.europa.eu/rss/video/europarltv/en.xml"
+          },
+          {
+            "name": "theEUAndItsInstitutions",
+            "url": "https://www.europarl.europa.eu/rss/topic/901/en.xml"
+          },
+          {
+            "name": "justiceAndCitizenship",
+            "url": "https://www.europarl.europa.eu/rss/topic/902/en.xml"
+          },
+          {
+            "name": "externalRelations",
+            "url": "https://www.europarl.europa.eu/rss/topic/903/en.xml"
+          },
+          {
+            "name": "agricultureAndFisheries",
+            "url": "https://www.europarl.europa.eu/rss/topic/904/en.xml"
+          },
+          {
+            "name": "budget",
+            "url": "https://www.europarl.europa.eu/rss/topic/905/en.xml"
+          },
+          {
+            "name": "cultureAndEducation",
+            "url": "https://www.europarl.europa.eu/rss/topic/906/en.xml"
+          },
+          {
+            "name": "economicAndMonetaryAffairs",
+            "url": "https://www.europarl.europa.eu/rss/topic/907/en.xml"
+          },
+          {
+            "name": "employmentAndSocialAffairs",
+            "url": "https://www.europarl.europa.eu/rss/topic/908/en.xml"
+          },
+          {
+            "name": "internalMarketAndIndustry",
+            "url": "https://www.europarl.europa.eu/rss/topic/909/en.xml"
+          },
+          {
+            "name": "regionsAndTransport",
+            "url": "https://www.europarl.europa.eu/rss/topic/910/en.xml"
+          },
+          {
+            "name": "healthAndEnvironment",
+            "url": "https://www.europarl.europa.eu/rss/topic/911/en.xml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "nyTimes",
+    "filters": [
+      {
+        "type": "topic",
+        "topics": [
+          {
+            "name": "world",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+          },
+          {
+            "name": "africa",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml"
+          },
+          {
+            "name": "americas",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml"
+          },
+          {
+            "name": "asiaPacific",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml"
+          },
+          {
+            "name": "europe",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml"
+          },
+          {
+            "name": "middleEast",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml"
+          },
+          {
+            "name": "us",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml"
+          },
+          {
+            "name": "education",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Education.xml"
+          },
+          {
+            "name": "politics",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+          },
+          {
+            "name": "theUpshot",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Upshot.xml"
+          },
+          {
+            "name": "nyRegion",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml"
+          },
+          {
+            "name": "business",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
+          },
+          {
+            "name": "energyEnvironment",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml"
+          },
+          {
+            "name": "smallBusiness",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml"
+          },
+          {
+            "name": "economy",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml"
+          },
+          {
+            "name": "dealBook",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Dealbook.xml"
+          },
+          {
+            "name": "mediaAdvertising",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml"
+          },
+          {
+            "name": "yourMoney",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/YourMoney.xml"
+          },
+          {
+            "name": "technology",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+          },
+          {
+            "name": "personalTech",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml"
+          },
+          {
+            "name": "sports",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml"
+          },
+          {
+            "name": "baseball",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Baseball.xml"
+          },
+          {
+            "name": "collegeBasketball",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/CollegeBasketball.xml"
+          },
+          {
+            "name": "collegeFootball",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/CollegeFootball.xml"
+          },
+          {
+            "name": "golf",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Golf.xml"
+          },
+          {
+            "name": "hockey",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Hockey.xml"
+          },
+          {
+            "name": "proBasketball",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/ProBasketball.xml"
+          },
+          {
+            "name": "proFootball",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/ProFootball.xml"
+          },
+          {
+            "name": "soccer",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml"
+          },
+          {
+            "name": "tennis",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml"
+          },
+          {
+            "name": "science",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"
+          },
+          {
+            "name": "environment",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml"
+          },
+          {
+            "name": "spaceCosmos",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Space.xml"
+          },
+          {
+            "name": "health",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"
+          },
+          {
+            "name": "wellBlog",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Well.xml"
+          },
+          {
+            "name": "arts",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml"
+          },
+          {
+            "name": "artDesign",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml"
+          },
+          {
+            "name": "bookReview",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Books/Review.xml"
+          },
+          {
+            "name": "dance",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Dance.xml"
+          },
+          {
+            "name": "movies",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Movies.xml"
+          },
+          {
+            "name": "music",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Music.xml"
+          },
+          {
+            "name": "television",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Television.xml"
+          },
+          {
+            "name": "theater",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Theater.xml"
+          },
+          {
+            "name": "fashionStyle",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml"
+          },
+          {
+            "name": "diningWine",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml"
+          },
+          {
+            "name": "love",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Weddings.xml"
+          },
+          {
+            "name": "tMagazine",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/tmagazine.xml"
+          },
+          {
+            "name": "travel",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml"
+          },
+          {
+            "name": "realEstate",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/RealEstate.xml"
+          },
+          {
+            "name": "autos",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Automobiles.xml"
+          },
+          {
+            "name": "lensBlog",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Lens.xml"
+          },
+          {
+            "name": "obituaries",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Obituaries.xml"
+          },
+          {
+            "name": "timesWire",
+            "url": "https://content.api.nytimes.com/svc/news/v3/all/recent.rss"
+          },
+          {
+            "name": "mostEmailed",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml"
+          },
+          {
+            "name": "mostShared",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml"
+          },
+          {
+            "name": "mostViewed",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml"
+          },
+          {
+            "name": "charlesMBlowOpinion",
+            "url": "https://www.nytimes.com/svc/collections/v1/publish/column/charles-m-blow/rss.xml"
+          },
+          {
+            "name": "jamelleBouieOpinion",
+            "url": "https://www.nytimes.com/svc/collections/v1/publish/column/jamelle-bouie/rss.xml"
+          },
+          {
+            "name": "davidBrooksOpinion",
+            "url": "https://www.nytimes.com/svc/collections/v1/publish/column/david-brooks/rss.xml"
+          },
+          {
+            "name": "frankBruniOpinion",
+            "url": "https://www.nytimes.com/svc/collections/v1/publish/column/frank-bruni/rss.xml"
+          },
+          {
+            "name": "gailCollinsOpinion",
+            "url": "https://www.nytimes.com/svc/collections/v1/publish/column/gail-collins/rss.xml"
+          },
+          {
+            "name": "rossDouthatOpinion",
+            "url": "https://www.nytimes.com/svc/collections/v1/publish/column/ross-douthat/rss.xml"
+          },
+          {
+            "name": "maureenDowdOpinion",
+            "url": "https://www.nytimes.com/svc/collections/v1/publish/column/maureen-dowd/rss.xml"
+          },
+          {
+            "name": "thomasLFriedmanOpinion",
+            "url": "https://www.nytimes.com/svc/collections/v1/publish/column/thomas-l-friedman/rss.xml"
+          },
+          {
+            "name": "michelleGoldbergOpinion",
+            "url": "https://www.nytimes.com/svc/collections/v1/publish/column/michelle-goldberg/rss.xml"
+          },
+          {
+            "name": "ezraKleiOpinion",
+            "url": "https://www.nytimes.com/svc/collections/v1/publish/column/ezra-klein/rss.xml"
+          },
+          {
+            "name": "nicholasDKristofOpinion",
+            "url": "https://www.nytimes.com/svc/collections/v1/publish/column/nicholas-kristof/rss.xml"
+          },
+          [
+            {
+              "name": "paulKrugmanOpinion",
+              "url": "https://www.nytimes.com/svc/collections/v1/publish/column/paul-krugman/rss.xml"
+            },
+            {
+              "name": "farhadManjooOpinion",
+              "url": "https://www.nytimes.com/svc/collections/v1/publish/column/farhad-manjoo/rss.xml"
+            },
+            {
+              "name": "bretStephensOpinion",
+              "url": "https://www.nytimes.com/svc/collections/v1/publish/column/bret-stephens/rss.xml"
+            },
+            {
+              "name": "sundayOpinion",
+              "url": "https://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml"
+            }
+          ]
+        ]
       }
     ]
   }
