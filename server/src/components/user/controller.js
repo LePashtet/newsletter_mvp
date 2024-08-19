@@ -43,10 +43,9 @@ const getUserReferralCodeById = catchAsync(async (req, res) => {
 
 const deleteUser = catchAsync(async (req, res) => {
     const { objectId } = req.params;
-
     try {
-        const user = await User.findByIdAndDelete(objectId);
-        res.send(user);
+        await User.findByIdAndDelete(objectId);
+        res.status(201).send("Ok");
     } catch (error) {
         logger.error(error)
         res.status(500).send(error);
